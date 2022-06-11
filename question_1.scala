@@ -10,3 +10,5 @@ object question_1 {
     println(Up("its a cSe 116 undErgrad       uaTe course"))
   }
 }
+
+//this little program is reverse a string and make all letters uppercase
